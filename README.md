@@ -13,4 +13,5 @@ Features:
 4. Filter functionality in the product page
 5. Add to cart features
 6. Full e-commerce buying flow.
+
 Tech Stack: HTML | CSS | Javascript
